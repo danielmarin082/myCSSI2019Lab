@@ -36,35 +36,3 @@
 .border_bottom{
   grid-column: 2/ span 9;
 }
-#title {
-grid-column: 2/ span 9;
-}
-.caption{
-  grid-column: 2/span 7;
-}
-.photo {
-  grid-column: span 3;
-  grid-row: span 3;
-}
-#date{
-grid-column: span 2;
-}
-#p1{
-  grid-column-start: 2;
-  grid-column-end: 5;
-  grid-row-start: 3;
-  grid-row-end: 6;
-}
-#p2{
-  grid-column-start: 5;
-  grid-column-end: 8;
-  grid-row-start: 3;
-  grid-row-end: 6;
-}
-#p3{
-  grid-column-start: 8;
-  grid-column-end: 11;
-  grid-row-start: 3;
-  grid-row-end: 6;
-}
-/* Style remaining grid elements */

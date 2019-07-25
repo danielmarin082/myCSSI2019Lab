@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    color: solid black;
+}
+.button {
+  width:auto ;
+  height: 348px;
+  font-size: 50px;
+}
