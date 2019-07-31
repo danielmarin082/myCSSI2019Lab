@@ -25,7 +25,10 @@
 #     print("Top 5 heroes", superheroes)
 # else:
 #     print("Hero not found.")
-
-names = ["Rickon", "Bran", "Arya", "Sans", "Jon", "Robb"]
-# names[4:2:-1]
-print(names[::2])
+#
+# names = ["Rickon", "Bran", "Arya", "Sans", "Jon", "Robb"]
+# # names[4:2:-1]
+# print(names[::2])
+# states = {"NY": "New York", "CA": "California", "TX": "Texas"}
+# for abbreviation in states:
+#     print(abbreviation + " is short for " + states[abbreviation])
